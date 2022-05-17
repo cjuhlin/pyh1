@@ -16,7 +16,7 @@ pyh1
 
 
 
-Python Hackerone API library
+Python Hackerone API library and client
 
 
 * Free software: MIT license
@@ -26,7 +26,18 @@ Python Hackerone API library
 Features
 --------
 
-* TODO
+
+### Todo Task
+- [ ] Implement API calls 
+  - [ ] Activities
+  - [ ] Program
+  - [ ] Reports
+  - [ ] Users
+- [ ] Client
+  - [ ] Something
+
+### Completed Task ✓
+- [x] Start project
 
 Credits
 -------
